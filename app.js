@@ -1,5 +1,5 @@
 
-import { createApp } from 'https://unpkg.com/vue@3/dist/vue.esm-browser.js';
+import { createApp } from 'https://unpkg.com/vue@3.5.44/dist/vue.esm-browser.js';
 
 // Componentes separados para melhor organização
 const HomePage = {
